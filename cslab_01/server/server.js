@@ -9,8 +9,8 @@ const mysql = require("mysql"); // mysql 사용
 
 var connection = mysql.createConnection({
     host : "203.153.148.133",
-    user : "shpark0308",
-    password : "2057213sh",
+    user : "**********",
+    password : "**********",
     database : "blockchain",
 });
 
